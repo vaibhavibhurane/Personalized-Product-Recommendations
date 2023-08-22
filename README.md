@@ -6,5 +6,6 @@ A Deep Learning based Fashion Recommender System using the ResNET50.
  
 ![Screenshot (104)](https://github.com/vaibhavibhurane/Personalized-Product-Recommendations/assets/117935143/1173da15-91c8-41ad-bb6a-454a7b86432e)
 
-These are some recommendation by matching similarities by uploading picture.
+below 5 pictures are some recommendation by matching similarities by uploading picture.
+
 ![Screenshot (105)](https://github.com/vaibhavibhurane/Personalized-Product-Recommendations/assets/117935143/7bbfc017-9105-4d0d-bbaa-4e52f3347145)
